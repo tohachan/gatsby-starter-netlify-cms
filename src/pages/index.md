@@ -10,8 +10,11 @@ mainpitch:
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-    There is also some stuff that should've been here, and now it's here!
+    profits are reinvested in their communities. There is also some stuff that
+    should've been here, and now it's here!
+
+
+    Add some more extra description here.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -69,3 +72,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
